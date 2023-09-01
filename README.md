@@ -7,9 +7,9 @@ Welcome to my portfolio repository, where I showcase some of my projects and dem
 ## Projects
 
 ### Project 1: Car Racing Game in Python using Pygame
-**Description:** A fun and interactive car racing game built in Python using the Pygame library. Players can race against AI opponents and navigate through challenging tracks.
-**Technologies Used:** Python, Pygame
-**Repository:** [GitHub Repository](https://github.com/Darab07/Projects/blob/main/Car%20Racing%20Game%20in%20Python%20using%20Pygame)
+- **Description:** A fun and interactive car racing game built in Python using the Pygame library. Players can race against AI opponents and navigate through challenging tracks.
+- **Technologies Used:** Python, Pygame
+- **Repository:** [GitHub Repository](https://github.com/Darab07/Projects/blob/main/Car%20Racing%20Game%20in%20Python%20using%20Pygame)
 
 ### Project 2: Flappy Bird Game in Python with Pygame
 **Description:** A recreation of the classic Flappy Bird game using Python and the Pygame library. Test your reflexes by controlling a bird through obstacles.
@@ -43,9 +43,8 @@ Welcome to my portfolio repository, where I showcase some of my projects and dem
 
 If you have any questions, want to discuss potential collaborations, or just want to say hello, feel free to reach out to me:
 
-## Email: mdarabkhan02@gmail.com
-## LinkedIn: https://www.linkedin.com/in/mohammaddarabkhan/
-## Portfolio Website: [Your Portfolio Website URL]
+- 📧 Email: [mdarabkhan02@gmail.com](mailto:mdarabkhan02@gmail.com)
+- 💼 LinkedIn: [Mohammad Darab Khan](www.linkedin.com/in/mohammaddarabkhan)
 
 
 
