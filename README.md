@@ -1,16 +1,14 @@
 # Mohammad Darab's Portfolio Repository
 
-Overview
+## Overview
 
 Welcome to my portfolio repository, where I showcase some of my projects and demonstrate my skills as a software developer. Each project here represents a different aspect of my expertise, and I'm excited to share them with you.
 
-Projects
+## Projects
 
-Project 1: Car Racing Game in Python using Pygame
-
-Description: A fun and interactive car racing game built in Python using the Pygame library. Players can race against AI opponents and navigate through challenging tracks.
-
-Technologies Used: Python, Pygame
+### Project 1: Car Racing Game in Python using Pygame
+**Description:** A fun and interactive car racing game built in Python using the Pygame library. Players can race against AI opponents a*nd navigate through challenging tracks.
+**Technologies Used:** Python, Pygame
 
 Repository: [GitHub Repository](https://github.com/Darab07/Projects/blob/main/Car%20Racing%20Game%20in%20Python%20using%20Pygame)
 
