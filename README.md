@@ -18,17 +18,10 @@ Repository: Link to the GitHub repository for this project for detailed code and
 ...
 (Repeat for each project you want to showcase)
 
-How to Run
-If you'd like to explore the code or run these projects locally, follow these steps:
-
-Clone the repository to your local machine using git clone [repository_url].
-Navigate to the project directory using the command line.
-Follow the README or project-specific instructions within each project folder to set up and run the project.
-Contact
 If you have any questions, want to discuss potential collaborations, or just want to say hello, feel free to reach out to me:
 
-Email: [Your Email Address]
-LinkedIn: [Your LinkedIn Profile URL]
+Email: mdarabkhan02@gmail.com
+LinkedIn: [(https://www.linkedin.com/in/mohammaddarabkhan/)]
 Portfolio Website: [Your Portfolio Website URL]
 About Me
 Provide a brief introduction about yourself, your background, and your passion for software development. Share your career goals and any other relevant information that showcases your enthusiasm and commitment to the field.
